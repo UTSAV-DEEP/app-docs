@@ -19,8 +19,6 @@ Here is an example of a high-quality track exported directly from the app:
 
 https://UTSAV-DEEP.github.io/app-docs/aim/samples/aim_featured_sample.m4a
 
-<audio controls src="https://UTSAV-DEEP.github.io/app-docs/aim/samples/aim_featured_sample.m4a"></audio>
-
 *Note: The app generates these melodies instantly without any pre-recorded loops.*
 
 ### 🎨 Visual Assets & AI
