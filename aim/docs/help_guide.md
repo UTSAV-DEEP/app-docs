@@ -17,7 +17,8 @@ While our fractal engine is highly advanced, it's important to remember that aut
 #### 🎵 Generation Sample
 Here is an example of a high-quality track exported directly from the app:
 
-https://github.com/UTSAV-DEEP/app-docs/blob/main/aim/samples/aim_featured_sample.m4a
+[[Audio Sample]]
+<video src="https://github.com/UTSAV-DEEP/app-docs/blob/main/aim/samples/aim_featured_sample.m4a" controls></video>
 
 *Note: The app generates these melodies instantly without any pre-recorded loops.*
 
