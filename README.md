@@ -10,8 +10,7 @@ AI-powered real-time fractal music generator for Android. It uses a **Fractal Bi
 #### 🎧 Audio Showcase
 *Listen to a sample track generated in real-time by the A.I.M. engine:*
 
-[[Audio Sample]]
-<video src="https://github.com/UTSAV-DEEP/app-docs/blob/main/aim/samples/aim_featured_sample.m4a" controls></video>
+https://raw.githubusercontent.com/UTSAV-DEEP/app-docs/main/aim/samples/aim_featured_sample.m4a
 
 
 #### 📄 Links & Legal
