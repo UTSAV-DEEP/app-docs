@@ -5,9 +5,9 @@ Centralized repository containing public documents and files of my private apps
 
 This repository hosts the official documentation, privacy policies, and public assets for mobile applications developed by **Utsav Deep**.
 
-## ? Applications
+## Applications
 
-### ? Automated Instrumental Music (A.I.M.)
+### Automated Instrumental Music (A.I.M.)
 AI-powered real-time fractal music generator for Android.
 
 *   [**Privacy Policy**](aim/privacy_policy.md)
@@ -17,7 +17,7 @@ AI-powered real-time fractal music generator for Android.
 
 ---
 
-## ? Developer
+## Developer
 **Utsav Deep**  
 Senior Software Engineer  
 [LinkedIn](http://in.linkedin.com/pub/utsav-deep/84/85/897) | [GitHub](https://github.com/UTSAV-DEEP)
